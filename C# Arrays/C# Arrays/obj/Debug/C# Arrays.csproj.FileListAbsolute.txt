@@ -1,0 +1,8 @@
+E:\C #\C# Arrays\C# Arrays\bin\Debug\C# Arrays.exe.config
+E:\C #\C# Arrays\C# Arrays\bin\Debug\C# Arrays.exe
+E:\C #\C# Arrays\C# Arrays\bin\Debug\C# Arrays.pdb
+E:\C #\C# Arrays\C# Arrays\obj\Debug\C# Arrays.csproj.AssemblyReference.cache
+E:\C #\C# Arrays\C# Arrays\obj\Debug\C# Arrays.csproj.SuggestedBindingRedirects.cache
+E:\C #\C# Arrays\C# Arrays\obj\Debug\C# Arrays.csproj.CoreCompileInputs.cache
+E:\C #\C# Arrays\C# Arrays\obj\Debug\C# Arrays.exe
+E:\C #\C# Arrays\C# Arrays\obj\Debug\C# Arrays.pdb

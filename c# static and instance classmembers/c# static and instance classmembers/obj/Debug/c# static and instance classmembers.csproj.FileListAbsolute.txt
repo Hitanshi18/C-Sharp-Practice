@@ -1,0 +1,8 @@
+E:\C #\c# static and instance classmembers\c# static and instance classmembers\bin\Debug\c# static and instance classmembers.exe.config
+E:\C #\c# static and instance classmembers\c# static and instance classmembers\bin\Debug\c# static and instance classmembers.exe
+E:\C #\c# static and instance classmembers\c# static and instance classmembers\bin\Debug\c# static and instance classmembers.pdb
+E:\C #\c# static and instance classmembers\c# static and instance classmembers\obj\Debug\c# static and instance classmembers.csproj.AssemblyReference.cache
+E:\C #\c# static and instance classmembers\c# static and instance classmembers\obj\Debug\c# static and instance classmembers.csproj.SuggestedBindingRedirects.cache
+E:\C #\c# static and instance classmembers\c# static and instance classmembers\obj\Debug\c# static and instance classmembers.csproj.CoreCompileInputs.cache
+E:\C #\c# static and instance classmembers\c# static and instance classmembers\obj\Debug\c# static and instance classmembers.exe
+E:\C #\c# static and instance classmembers\c# static and instance classmembers\obj\Debug\c# static and instance classmembers.pdb

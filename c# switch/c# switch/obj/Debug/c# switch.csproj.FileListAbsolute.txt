@@ -1,0 +1,8 @@
+E:\C #\c# switch\c# switch\bin\Debug\c# switch.exe.config
+E:\C #\c# switch\c# switch\bin\Debug\c# switch.exe
+E:\C #\c# switch\c# switch\bin\Debug\c# switch.pdb
+E:\C #\c# switch\c# switch\obj\Debug\c# switch.csproj.AssemblyReference.cache
+E:\C #\c# switch\c# switch\obj\Debug\c# switch.csproj.SuggestedBindingRedirects.cache
+E:\C #\c# switch\c# switch\obj\Debug\c# switch.csproj.CoreCompileInputs.cache
+E:\C #\c# switch\c# switch\obj\Debug\c# switch.exe
+E:\C #\c# switch\c# switch\obj\Debug\c# switch.pdb

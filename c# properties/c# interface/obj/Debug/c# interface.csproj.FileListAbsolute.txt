@@ -1,0 +1,8 @@
+E:\C #\c# properties\c# interface\bin\Debug\c# interface.exe.config
+E:\C #\c# properties\c# interface\bin\Debug\c# interface.exe
+E:\C #\c# properties\c# interface\bin\Debug\c# interface.pdb
+E:\C #\c# properties\c# interface\obj\Debug\c# interface.csproj.AssemblyReference.cache
+E:\C #\c# properties\c# interface\obj\Debug\c# interface.csproj.SuggestedBindingRedirects.cache
+E:\C #\c# properties\c# interface\obj\Debug\c# interface.csproj.CoreCompileInputs.cache
+E:\C #\c# properties\c# interface\obj\Debug\c# interface.exe
+E:\C #\c# properties\c# interface\obj\Debug\c# interface.pdb

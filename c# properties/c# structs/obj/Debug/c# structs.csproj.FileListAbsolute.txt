@@ -1,0 +1,8 @@
+E:\C #\c# properties\c# structs\bin\Debug\c# structs.exe.config
+E:\C #\c# properties\c# structs\bin\Debug\c# structs.exe
+E:\C #\c# properties\c# structs\bin\Debug\c# structs.pdb
+E:\C #\c# properties\c# structs\obj\Debug\c# structs.csproj.AssemblyReference.cache
+E:\C #\c# properties\c# structs\obj\Debug\c# structs.csproj.SuggestedBindingRedirects.cache
+E:\C #\c# properties\c# structs\obj\Debug\c# structs.csproj.CoreCompileInputs.cache
+E:\C #\c# properties\c# structs\obj\Debug\c# structs.exe
+E:\C #\c# properties\c# structs\obj\Debug\c# structs.pdb

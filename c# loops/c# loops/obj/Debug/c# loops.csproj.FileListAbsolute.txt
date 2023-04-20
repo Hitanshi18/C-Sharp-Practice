@@ -1,0 +1,8 @@
+E:\C #\c# loops\c# loops\bin\Debug\c# loops.exe.config
+E:\C #\c# loops\c# loops\bin\Debug\c# loops.exe
+E:\C #\c# loops\c# loops\bin\Debug\c# loops.pdb
+E:\C #\c# loops\c# loops\obj\Debug\c# loops.csproj.AssemblyReference.cache
+E:\C #\c# loops\c# loops\obj\Debug\c# loops.csproj.SuggestedBindingRedirects.cache
+E:\C #\c# loops\c# loops\obj\Debug\c# loops.csproj.CoreCompileInputs.cache
+E:\C #\c# loops\c# loops\obj\Debug\c# loops.exe
+E:\C #\c# loops\c# loops\obj\Debug\c# loops.pdb

@@ -1,0 +1,8 @@
+E:\C #\c# methods & parameters\c# methods & parameters\obj\Debug\c# methods & parameters.csproj.AssemblyReference.cache
+E:\C #\c# methods & parameters\c# methods & parameters\obj\Debug\c# methods & parameters.csproj.SuggestedBindingRedirects.cache
+E:\C #\c# methods & parameters\c# methods & parameters\obj\Debug\c# methods & parameters.csproj.CoreCompileInputs.cache
+E:\C #\c# methods & parameters\c# methods & parameters\bin\Debug\c# methods & parameters.exe.config
+E:\C #\c# methods & parameters\c# methods & parameters\bin\Debug\c# methods & parameters.exe
+E:\C #\c# methods & parameters\c# methods & parameters\bin\Debug\c# methods & parameters.pdb
+E:\C #\c# methods & parameters\c# methods & parameters\obj\Debug\c# methods & parameters.exe
+E:\C #\c# methods & parameters\c# methods & parameters\obj\Debug\c# methods & parameters.pdb

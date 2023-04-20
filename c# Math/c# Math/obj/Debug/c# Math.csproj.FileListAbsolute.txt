@@ -1,0 +1,8 @@
+E:\C #\c# Math\c# Math\bin\Debug\c# Math.exe.config
+E:\C #\c# Math\c# Math\bin\Debug\c# Math.exe
+E:\C #\c# Math\c# Math\bin\Debug\c# Math.pdb
+E:\C #\c# Math\c# Math\obj\Debug\c# Math.csproj.AssemblyReference.cache
+E:\C #\c# Math\c# Math\obj\Debug\c# Math.csproj.SuggestedBindingRedirects.cache
+E:\C #\c# Math\c# Math\obj\Debug\c# Math.csproj.CoreCompileInputs.cache
+E:\C #\c# Math\c# Math\obj\Debug\c# Math.exe
+E:\C #\c# Math\c# Math\obj\Debug\c# Math.pdb

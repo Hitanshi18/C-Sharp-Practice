@@ -1,0 +1,15 @@
+E:\C #\c# polymorphism\c# polymorphism\bin\Debug\net6.0\c# polymorphism.exe
+E:\C #\c# polymorphism\c# polymorphism\bin\Debug\net6.0\c# polymorphism.deps.json
+E:\C #\c# polymorphism\c# polymorphism\bin\Debug\net6.0\c# polymorphism.runtimeconfig.json
+E:\C #\c# polymorphism\c# polymorphism\bin\Debug\net6.0\c# polymorphism.dll
+E:\C #\c# polymorphism\c# polymorphism\bin\Debug\net6.0\c# polymorphism.pdb
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\c# polymorphism.csproj.AssemblyReference.cache
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\c# polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\c# polymorphism.AssemblyInfoInputs.cache
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\c# polymorphism.AssemblyInfo.cs
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\c# polymorphism.csproj.CoreCompileInputs.cache
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\c# polymorphism.dll
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\refint\c# polymorphism.dll
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\c# polymorphism.pdb
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\c# polymorphism.genruntimeconfig.cache
+E:\C #\c# polymorphism\c# polymorphism\obj\Debug\net6.0\ref\c# polymorphism.dll
