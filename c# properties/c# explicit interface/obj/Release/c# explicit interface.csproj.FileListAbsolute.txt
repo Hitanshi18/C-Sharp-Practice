@@ -1,8 +1,0 @@
-E:\C #\c# properties\c# explicit interface\bin\Release\c# explicit interface.exe.config
-E:\C #\c# properties\c# explicit interface\bin\Release\c# explicit interface.exe
-E:\C #\c# properties\c# explicit interface\bin\Release\c# explicit interface.pdb
-E:\C #\c# properties\c# explicit interface\obj\Release\c# explicit interface.csproj.AssemblyReference.cache
-E:\C #\c# properties\c# explicit interface\obj\Release\c# explicit interface.csproj.SuggestedBindingRedirects.cache
-E:\C #\c# properties\c# explicit interface\obj\Release\c# explicit interface.csproj.CoreCompileInputs.cache
-E:\C #\c# properties\c# explicit interface\obj\Release\c# explicit interface.exe
-E:\C #\c# properties\c# explicit interface\obj\Release\c# explicit interface.pdb
