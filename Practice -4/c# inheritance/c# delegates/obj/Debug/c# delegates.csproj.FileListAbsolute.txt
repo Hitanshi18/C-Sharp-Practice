@@ -1,0 +1,8 @@
+E:\C# Practice\Practice -4\c# inheritance\c# delegates\bin\Debug\c# delegates.exe.config
+E:\C# Practice\Practice -4\c# inheritance\c# delegates\bin\Debug\c# delegates.exe
+E:\C# Practice\Practice -4\c# inheritance\c# delegates\bin\Debug\c# delegates.pdb
+E:\C# Practice\Practice -4\c# inheritance\c# delegates\obj\Debug\c# delegates.csproj.AssemblyReference.cache
+E:\C# Practice\Practice -4\c# inheritance\c# delegates\obj\Debug\c# delegates.csproj.SuggestedBindingRedirects.cache
+E:\C# Practice\Practice -4\c# inheritance\c# delegates\obj\Debug\c# delegates.csproj.CoreCompileInputs.cache
+E:\C# Practice\Practice -4\c# inheritance\c# delegates\obj\Debug\c# delegates.exe
+E:\C# Practice\Practice -4\c# inheritance\c# delegates\obj\Debug\c# delegates.pdb

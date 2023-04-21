@@ -1,8 +1,0 @@
-E:\C #\C# Booleans\C# Booleans\obj\Debug\C# Booleans.csproj.AssemblyReference.cache
-E:\C #\C# Booleans\C# Booleans\obj\Debug\C# Booleans.csproj.SuggestedBindingRedirects.cache
-E:\C #\C# Booleans\C# Booleans\obj\Debug\C# Booleans.csproj.CoreCompileInputs.cache
-E:\C #\C# Booleans\C# Booleans\bin\Debug\C# Booleans.exe.config
-E:\C #\C# Booleans\C# Booleans\bin\Debug\C# Booleans.exe
-E:\C #\C# Booleans\C# Booleans\bin\Debug\C# Booleans.pdb
-E:\C #\C# Booleans\C# Booleans\obj\Debug\C# Booleans.exe
-E:\C #\C# Booleans\C# Booleans\obj\Debug\C# Booleans.pdb

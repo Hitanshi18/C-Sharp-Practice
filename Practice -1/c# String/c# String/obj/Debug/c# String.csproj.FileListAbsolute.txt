@@ -1,0 +1,8 @@
+E:\C# Practice\Practice -1\c# String\c# String\bin\Debug\c# String.exe.config
+E:\C# Practice\Practice -1\c# String\c# String\bin\Debug\c# String.exe
+E:\C# Practice\Practice -1\c# String\c# String\bin\Debug\c# String.pdb
+E:\C# Practice\Practice -1\c# String\c# String\obj\Debug\c# String.csproj.AssemblyReference.cache
+E:\C# Practice\Practice -1\c# String\c# String\obj\Debug\c# String.csproj.SuggestedBindingRedirects.cache
+E:\C# Practice\Practice -1\c# String\c# String\obj\Debug\c# String.csproj.CoreCompileInputs.cache
+E:\C# Practice\Practice -1\c# String\c# String\obj\Debug\c# String.exe
+E:\C# Practice\Practice -1\c# String\c# String\obj\Debug\c# String.pdb

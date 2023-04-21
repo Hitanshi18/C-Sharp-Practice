@@ -1,8 +1,0 @@
-E:\C #\c# properties\c# diff- class & struct\bin\Debug\c# diff- class & struct.exe.config
-E:\C #\c# properties\c# diff- class & struct\bin\Debug\c# diff- class & struct.exe
-E:\C #\c# properties\c# diff- class & struct\bin\Debug\c# diff- class & struct.pdb
-E:\C #\c# properties\c# diff- class & struct\obj\Debug\c# diff- class & struct.csproj.AssemblyReference.cache
-E:\C #\c# properties\c# diff- class & struct\obj\Debug\c# diff- class & struct.csproj.SuggestedBindingRedirects.cache
-E:\C #\c# properties\c# diff- class & struct\obj\Debug\c# diff- class & struct.csproj.CoreCompileInputs.cache
-E:\C #\c# properties\c# diff- class & struct\obj\Debug\c# diff- class & struct.exe
-E:\C #\c# properties\c# diff- class & struct\obj\Debug\c# diff- class & struct.pdb

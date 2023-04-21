@@ -1,8 +1,0 @@
-E:\C #\c# namespace\c# namespace\bin\Debug\c# namespace.exe.config
-E:\C #\c# namespace\c# namespace\bin\Debug\c# namespace.exe
-E:\C #\c# namespace\c# namespace\bin\Debug\c# namespace.pdb
-E:\C #\c# namespace\c# namespace\obj\Debug\c# namespace.csproj.AssemblyReference.cache
-E:\C #\c# namespace\c# namespace\obj\Debug\c# namespace.csproj.SuggestedBindingRedirects.cache
-E:\C #\c# namespace\c# namespace\obj\Debug\c# namespace.csproj.CoreCompileInputs.cache
-E:\C #\c# namespace\c# namespace\obj\Debug\c# namespace.exe
-E:\C #\c# namespace\c# namespace\obj\Debug\c# namespace.pdb

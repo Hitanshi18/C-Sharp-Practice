@@ -1,0 +1,8 @@
+E:\C# Practice\Practice -4\c# inheritance\c# enum\bin\Debug\c# enum.exe.config
+E:\C# Practice\Practice -4\c# inheritance\c# enum\bin\Debug\c# enum.exe
+E:\C# Practice\Practice -4\c# inheritance\c# enum\bin\Debug\c# enum.pdb
+E:\C# Practice\Practice -4\c# inheritance\c# enum\obj\Debug\c# enum.csproj.AssemblyReference.cache
+E:\C# Practice\Practice -4\c# inheritance\c# enum\obj\Debug\c# enum.csproj.SuggestedBindingRedirects.cache
+E:\C# Practice\Practice -4\c# inheritance\c# enum\obj\Debug\c# enum.csproj.CoreCompileInputs.cache
+E:\C# Practice\Practice -4\c# inheritance\c# enum\obj\Debug\c# enum.exe
+E:\C# Practice\Practice -4\c# inheritance\c# enum\obj\Debug\c# enum.pdb

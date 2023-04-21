@@ -1,8 +1,0 @@
-E:\C #\C# If-else\C# If-else\bin\Debug\C# If-else.exe.config
-E:\C #\C# If-else\C# If-else\bin\Debug\C# If-else.exe
-E:\C #\C# If-else\C# If-else\bin\Debug\C# If-else.pdb
-E:\C #\C# If-else\C# If-else\obj\Debug\C# If-else.csproj.AssemblyReference.cache
-E:\C #\C# If-else\C# If-else\obj\Debug\C# If-else.csproj.SuggestedBindingRedirects.cache
-E:\C #\C# If-else\C# If-else\obj\Debug\C# If-else.csproj.CoreCompileInputs.cache
-E:\C #\C# If-else\C# If-else\obj\Debug\C# If-else.exe
-E:\C #\C# If-else\C# If-else\obj\Debug\C# If-else.pdb

@@ -1,0 +1,8 @@
+E:\C# Practice\Registration form\Registration form\bin\Debug\Registration form.exe.config
+E:\C# Practice\Registration form\Registration form\bin\Debug\Registration form.exe
+E:\C# Practice\Registration form\Registration form\bin\Debug\Registration form.pdb
+E:\C# Practice\Registration form\Registration form\obj\Debug\Registration form.csproj.AssemblyReference.cache
+E:\C# Practice\Registration form\Registration form\obj\Debug\Registration form.csproj.SuggestedBindingRedirects.cache
+E:\C# Practice\Registration form\Registration form\obj\Debug\Registration form.csproj.CoreCompileInputs.cache
+E:\C# Practice\Registration form\Registration form\obj\Debug\Registration form.exe
+E:\C# Practice\Registration form\Registration form\obj\Debug\Registration form.pdb

@@ -1,8 +1,0 @@
-E:\C #\c# properties\C# Abstract class\bin\Debug\C# Abstract class.exe.config
-E:\C #\c# properties\C# Abstract class\bin\Debug\C# Abstract class.exe
-E:\C #\c# properties\C# Abstract class\bin\Debug\C# Abstract class.pdb
-E:\C #\c# properties\C# Abstract class\obj\Debug\C# Abstract class.csproj.AssemblyReference.cache
-E:\C #\c# properties\C# Abstract class\obj\Debug\C# Abstract class.csproj.SuggestedBindingRedirects.cache
-E:\C #\c# properties\C# Abstract class\obj\Debug\C# Abstract class.csproj.CoreCompileInputs.cache
-E:\C #\c# properties\C# Abstract class\obj\Debug\C# Abstract class.exe
-E:\C #\c# properties\C# Abstract class\obj\Debug\C# Abstract class.pdb

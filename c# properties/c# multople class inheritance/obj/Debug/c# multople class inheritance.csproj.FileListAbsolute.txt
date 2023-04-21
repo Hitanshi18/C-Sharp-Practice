@@ -1,8 +1,0 @@
-E:\C #\c# properties\c# multople class inheritance\obj\Debug\c# multople class inheritance.csproj.AssemblyReference.cache
-E:\C #\c# properties\c# multople class inheritance\obj\Debug\c# multople class inheritance.csproj.SuggestedBindingRedirects.cache
-E:\C #\c# properties\c# multople class inheritance\obj\Debug\c# multople class inheritance.csproj.CoreCompileInputs.cache
-E:\C #\c# properties\c# multople class inheritance\bin\Debug\c# multople class inheritance.exe.config
-E:\C #\c# properties\c# multople class inheritance\bin\Debug\c# multople class inheritance.exe
-E:\C #\c# properties\c# multople class inheritance\bin\Debug\c# multople class inheritance.pdb
-E:\C #\c# properties\c# multople class inheritance\obj\Debug\c# multople class inheritance.exe
-E:\C #\c# properties\c# multople class inheritance\obj\Debug\c# multople class inheritance.pdb

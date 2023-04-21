@@ -1,0 +1,8 @@
+E:\C# Practice\Practice -4\c# inheritance\c# exception handling\bin\Debug\c# exception handling.exe.config
+E:\C# Practice\Practice -4\c# inheritance\c# exception handling\bin\Debug\c# exception handling.exe
+E:\C# Practice\Practice -4\c# inheritance\c# exception handling\bin\Debug\c# exception handling.pdb
+E:\C# Practice\Practice -4\c# inheritance\c# exception handling\obj\Debug\c# exception handling.csproj.AssemblyReference.cache
+E:\C# Practice\Practice -4\c# inheritance\c# exception handling\obj\Debug\c# exception handling.csproj.SuggestedBindingRedirects.cache
+E:\C# Practice\Practice -4\c# inheritance\c# exception handling\obj\Debug\c# exception handling.csproj.CoreCompileInputs.cache
+E:\C# Practice\Practice -4\c# inheritance\c# exception handling\obj\Debug\c# exception handling.exe
+E:\C# Practice\Practice -4\c# inheritance\c# exception handling\obj\Debug\c# exception handling.pdb

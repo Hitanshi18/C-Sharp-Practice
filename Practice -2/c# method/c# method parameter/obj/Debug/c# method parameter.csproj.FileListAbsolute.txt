@@ -1,0 +1,8 @@
+E:\C# Practice\Practice -2\c# method\c# method parameter\bin\Debug\c# method parameter.exe.config
+E:\C# Practice\Practice -2\c# method\c# method parameter\bin\Debug\c# method parameter.exe
+E:\C# Practice\Practice -2\c# method\c# method parameter\bin\Debug\c# method parameter.pdb
+E:\C# Practice\Practice -2\c# method\c# method parameter\obj\Debug\c# method parameter.csproj.AssemblyReference.cache
+E:\C# Practice\Practice -2\c# method\c# method parameter\obj\Debug\c# method parameter.csproj.SuggestedBindingRedirects.cache
+E:\C# Practice\Practice -2\c# method\c# method parameter\obj\Debug\c# method parameter.csproj.CoreCompileInputs.cache
+E:\C# Practice\Practice -2\c# method\c# method parameter\obj\Debug\c# method parameter.exe
+E:\C# Practice\Practice -2\c# method\c# method parameter\obj\Debug\c# method parameter.pdb
