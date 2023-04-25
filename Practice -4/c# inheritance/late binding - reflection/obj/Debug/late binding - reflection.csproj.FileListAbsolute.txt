@@ -1,0 +1,8 @@
+E:\C# Practice\Practice -4\c# inheritance\late binding - reflection\bin\Debug\late binding - reflection.exe.config
+E:\C# Practice\Practice -4\c# inheritance\late binding - reflection\bin\Debug\late binding - reflection.exe
+E:\C# Practice\Practice -4\c# inheritance\late binding - reflection\bin\Debug\late binding - reflection.pdb
+E:\C# Practice\Practice -4\c# inheritance\late binding - reflection\obj\Debug\late binding - reflection.csproj.AssemblyReference.cache
+E:\C# Practice\Practice -4\c# inheritance\late binding - reflection\obj\Debug\late binding - reflection.csproj.SuggestedBindingRedirects.cache
+E:\C# Practice\Practice -4\c# inheritance\late binding - reflection\obj\Debug\late binding - reflection.csproj.CoreCompileInputs.cache
+E:\C# Practice\Practice -4\c# inheritance\late binding - reflection\obj\Debug\late binding - reflection.exe
+E:\C# Practice\Practice -4\c# inheritance\late binding - reflection\obj\Debug\late binding - reflection.pdb

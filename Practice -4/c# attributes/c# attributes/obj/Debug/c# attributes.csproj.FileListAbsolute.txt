@@ -1,8 +1,0 @@
-E:\C# Practice\Practice -4\c# attributes\c# attributes\bin\Debug\c# attributes.exe.config
-E:\C# Practice\Practice -4\c# attributes\c# attributes\bin\Debug\c# attributes.exe
-E:\C# Practice\Practice -4\c# attributes\c# attributes\bin\Debug\c# attributes.pdb
-E:\C# Practice\Practice -4\c# attributes\c# attributes\obj\Debug\c# attributes.csproj.AssemblyReference.cache
-E:\C# Practice\Practice -4\c# attributes\c# attributes\obj\Debug\c# attributes.csproj.SuggestedBindingRedirects.cache
-E:\C# Practice\Practice -4\c# attributes\c# attributes\obj\Debug\c# attributes.csproj.CoreCompileInputs.cache
-E:\C# Practice\Practice -4\c# attributes\c# attributes\obj\Debug\c# attributes.exe
-E:\C# Practice\Practice -4\c# attributes\c# attributes\obj\Debug\c# attributes.pdb

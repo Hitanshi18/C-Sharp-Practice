@@ -1,0 +1,45 @@
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\c# Generics.exe.config
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\c# Generics.exe
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\c# Generics.pdb
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\obj\Debug\c# Generics.csproj.AssemblyReference.cache
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\obj\Debug\c# Generics.csproj.SuggestedBindingRedirects.cache
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\obj\Debug\c# Generics.csproj.CoreCompileInputs.cache
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\obj\Debug\c# Generics.csproj.CopyComplete
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\obj\Debug\c# Generics.exe
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\obj\Debug\c# Generics.pdb
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\MailChimp.Net.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Http.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Options.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Newtonsoft.Json.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Buffers.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.ComponentModel.Annotations.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Memory.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Numerics.Vectors.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Http.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Options.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\Newtonsoft.Json.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Buffers.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Memory.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Numerics.Vectors.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C# Practice\Practice -4\c# inheritance\c# Generics\bin\Debug\System.Threading.Tasks.Extensions.xml
